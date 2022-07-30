@@ -5,6 +5,6 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 
 ### Resources
-departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv & titles.csv
-Postgres11, pgAdmin4
+- departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv & titles.csv
+- Postgres11, pgAdmin4
 
