@@ -4,7 +4,13 @@
 The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This has been called the "silver tsunami".
 
 ## Results
-- There are 72,458 employees that fall into the range of employees ready for retirement, this is based on a birthdate of January 1, 1952 and December 31, 1955. We have excluded the employees that have already left Pewlett-Hackard. The CSV file 
+- There are 72,458 employees that fall into the range of employees ready for retirement, this is based on a birthdate of January 1, 1952 and December 31, 1955. We have excluded the employees that have already left Pewlett-Hackard. 
+
+- There are 50,842 in senior positions ready for retirement, and that is 70% of the total getting ready to retire.
+
+Image goes here
+
+- 
 
 
 
