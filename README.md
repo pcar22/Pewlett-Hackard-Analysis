@@ -10,6 +10,10 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 Image goes here
 
+- Based on a birth year of 1965, there are 1,549 employees that are eligible for mentorship. To query this information use the SELECT COUNT statement on the mentorship_program table.
+
+Image goes here
+
 - 
 
 
