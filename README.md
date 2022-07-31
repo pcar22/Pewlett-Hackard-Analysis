@@ -8,11 +8,11 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 - There are 50,842 in senior positions ready for retirement, and that is 70% of the total getting ready to retire.
 
-Image goes here
+![Retirement Titles](
 
 - Based on a birth year of 1965, there are 1,549 employees that are eligible for mentorship. To query this information use the SELECT COUNT statement on the mentorship_program table.
 
-Image goes here
+![Mentorship Program](https://github.com/pcar22/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Captures/Mentorship_Eligible.png)
 
 - 
 
