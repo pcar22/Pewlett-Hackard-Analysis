@@ -25,8 +25,9 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 ### Summary
 
-The 
-
+There may be some options that Pewlett-Hackard can take to overcome the mentor shortage.
+  1. Expanding the range of mentorship-eligibility from 1965. 
+  2. Start to train employees sooner. 
 ### Resources
 **departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv & titles.csv**
 
