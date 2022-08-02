@@ -26,8 +26,12 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ### Summary
 
 There may be some options that Pewlett-Hackard can take to overcome the mentor shortage.
-  1. Expanding the range of mentorship-eligibility from 1965. 
+  1. Expanding the range of mentorship-eligibility from 1965. In 1964 there will be many more available for the program, however that would be going the wrong direction. Pewlett-Hackard would need to have employees born after 1965.
+  
+  ![1964_Retiring](https://github.com/pcar22/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Captures/1964_retiring.png)
+  
   2. Start to train employees sooner. 
+
 ### Resources
 **departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv & titles.csv**
 
